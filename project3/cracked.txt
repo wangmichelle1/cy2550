@@ -1,5 +1,6 @@
 bobhyper:peanut
 ninjakeeper:corvette
+thebestrena:1111
 tuchillpro:boomer
 hipurcedree:mustang
 omahardee:charlie
@@ -15,6 +16,7 @@ tacticreport:merlin
 boosherha:hockey
 thetinny:shadow
 theborgitas:pass
+markatoint:mynoob
 dubyabot:thunder
 updateson:pastern
 activeextra:eremic
